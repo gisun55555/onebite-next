@@ -1,3 +1,3 @@
-export default function page(){
-    return(<div>404에러 페이지</div>)
+export default function Page() {
+  return <div>존재하지 않는 페이지입니다</div>;
 }
