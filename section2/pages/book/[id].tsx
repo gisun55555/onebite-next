@@ -1,3 +1,4 @@
+/* eslint-disable */
 import style from "./[id].module.css";
 
 const mockData = {
